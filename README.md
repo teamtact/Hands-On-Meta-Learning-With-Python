@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/Hands-On-Meta-Learning-With-Python.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/Hands-On-Meta-Learning-With-Python)
+
 # [Hands-On Meta Learning With Python](https://www.amazon.com/Hands-Meta-Learning-Python-algorithms-ebook/dp/B07KJJHYKF/ref=sr_1_1?ie=UTF8&qid=1543222179&sr=8-1&keywords=meta+learning+hands+on)
 
 
